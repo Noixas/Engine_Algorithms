@@ -1,0 +1,21 @@
+Changes:
+---------------------------------------------------------
+New in v16 with respect to v15 from blackboard last year:
+	Removed most compiler warnings:
+	- initialized all variables in constructor
+	- prevented copying/assigning of most classes
+	- returned const references in GameObject where possible
+	- removed _world from GameObject
+	- removed cached _worldTransform
+	- removed non constant array sizes from Shader class
+	- removed deprecated sf::Text.setColor calls (setFillColor now)
+	- rewrote rendering loop
+	- rewrote renderer interface 
+	- rewrote material interface
+	- refactored project so it will work in VISUAL STUDIO
+	- refactored codeblocks project so it matches the VS project
+	
+v17 
+	- fixed codeblocks project file, for some reason static/dynamic were mixed up
+	
+v17_2   See 15_2

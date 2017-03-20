@@ -1,0 +1,24 @@
+﻿  main.cpp
+  AbstractBehaviour.cpp
+  KeysBehaviour.cpp
+  LookAt.cpp
+  RotatingBehaviour.cpp
+  AbstractGame.cpp
+  Camera.cpp
+  GameObject.cpp
+  Mesh.cpp
+  Renderer.cpp
+  ShaderProgram.cpp
+  Texture.cpp
+  World.cpp
+  AbstractMaterial.cpp
+  ColorMaterial.cpp
+  TextureMaterial.cpp
+  MGEDemo.cpp
+  DebugHud.cpp
+  Generating code
+  All 1042 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\aCmRz\Saxion\Quartier_7\Engine Algorithms\Octree_v0.01\mge_v17_student_version\_vs2015\release_static_exe\glew_static.pdb'; linking object as if no debug info
+  mge.vcxproj -> D:\aCmRz\Saxion\Quartier_7\Engine Algorithms\Octree_v0.01\mge_v17_student_version\_vs2015\release_static_exe/mge.exe
+  mge.vcxproj -> release_static_exe/mge.pdb (Full PDB)

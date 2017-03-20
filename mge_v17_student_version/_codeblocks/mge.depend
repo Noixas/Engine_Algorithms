@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1446372784 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\main.cpp
+	<iostream>
+	"mge/core/AbstractGame.hpp"
+	"mge/MGEDemo.hpp"
+
+1478552134 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\abstractgame.hpp
+	<SFML/Graphics.hpp>
+	<GL/glew.h>
+	<string>
+
+1478639044 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\mgedemo.hpp
+	<mge/core/AbstractGame.hpp>
+
+1478638718 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\abstractbehaviour.cpp
+	<cassert>
+	<iostream>
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478551845 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\abstractbehaviour.hpp
+
+1478550201 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\gameobject.hpp
+	<vector>
+	<string>
+	<iostream>
+	<glm.hpp>
+
+1427147572 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\glm.hpp
+	<iostream>
+	<iomanip>
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+
+1478638675 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\keysbehaviour.cpp
+	"mge/behaviours/KeysBehaviour.hpp"
+	"mge/core/GameObject.hpp"
+	<SFML/Window/Keyboard.hpp>
+
+1478535537 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\keysbehaviour.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478638772 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\lookat.cpp
+	<glm.hpp>
+	"mge/behaviours/LookAt.hpp"
+	"mge/core/GameObject.hpp"
+
+1478638675 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\lookat.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478535743 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\rotatingbehaviour.cpp
+	"mge/behaviours/RotatingBehaviour.hpp"
+	"mge/core/GameObject.hpp"
+
+1478535727 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\behaviours\rotatingbehaviour.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1446720843 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\camera.cpp
+	<iostream>
+	<glm.hpp>
+	"mge/core/Camera.hpp"
+
+1478536010 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\camera.hpp
+	<string>
+	"mge/core/GameObject.hpp"
+
+1478638851 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\gameobject.cpp
+	<cassert>
+	<iostream>
+	"mge/core/GameObject.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478638851 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\mesh.hpp
+	<vector>
+	<GL/glew.h>
+	<glm.hpp>
+
+1478638851 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\mesh.cpp
+	"mge/core/Mesh.hpp"
+	<iostream>
+	<map>
+	<string>
+	<fstream>
+
+1478638959 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\renderer.cpp
+	<cassert>
+	<iostream>
+	<GL/glew.h>
+	"mge/core/Renderer.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/core/World.hpp"
+	"mge/core/Camera.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+
+1478552516 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\renderer.hpp
+	<glm.hpp>
+
+1478550131 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\world.hpp
+	"mge/core/GameObject.hpp"
+
+1478551007 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\abstractmaterial.hpp
+	<glm.hpp>
+
+1478248057 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\shaderprogram.cpp
+	"mge/core/ShaderProgram.hpp"
+	<iostream>
+	<fstream>
+
+1446705773 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\shaderprogram.hpp
+	<vector>
+	<string>
+	<GL/glew.h>
+
+1478600711 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\texture.cpp
+	<iostream>
+	<string>
+	<SFML/Graphics.hpp>
+	"mge/core/Texture.hpp"
+
+1446706534 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\texture.hpp
+	<map>
+	<string>
+	<GL/glew.h>
+
+1478638959 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\world.cpp
+	"mge/core/World.hpp"
+
+1428950338 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\abstractmaterial.cpp
+	"mge/materials/AbstractMaterial.hpp"
+
+1478550869 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\colormaterial.cpp
+	<glm.hpp>
+	"mge/materials/ColorMaterial.hpp"
+	"mge/config.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/core/Mesh.hpp"
+
+1478552669 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\colormaterial.hpp
+	"mge/materials/AbstractMaterial.hpp"
+	"mge/core/ShaderProgram.hpp"
+
+1425322138 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\config.hpp
+	<string>
+
+1478550962 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\texturematerial.cpp
+	<glm.hpp>
+	"mge/materials/TextureMaterial.hpp"
+	"mge/core/Texture.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/config.hpp"
+
+1478551000 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\materials\texturematerial.hpp
+	"mge/core/ShaderProgram.hpp"
+	"mge/core/Texture.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+
+1478598891 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\mgedemo.cpp
+	<glm.hpp>
+	<iostream>
+	<string>
+	"mge/core/Renderer.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/core/World.hpp"
+	"mge/core/Camera.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+	"mge/materials/ColorMaterial.hpp"
+	"mge/materials/TextureMaterial.hpp"
+	"mge/behaviours/RotatingBehaviour.hpp"
+	"mge/behaviours/KeysBehaviour.hpp"
+	"mge/behaviours/LookAt.hpp"
+	"mge/util/DebugHud.hpp"
+	"mge/config.hpp"
+	"mge/MGEDemo.hpp"
+
+1478250301 d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\util\debughud.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1478553113 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\util\debughud.cpp
+	<cassert>
+	<iostream>
+	<cstdio>
+	<GL/glew.h>
+	<SFML/Graphics/Text.hpp>
+	"mge/util/DebugHud.hpp"
+	"mge/config.hpp"
+
+1478635726 source:d:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v15_4_sv\src\mge\core\abstractgame.cpp
+	"AbstractGame.hpp"
+	<iostream>
+	"mge/core/Renderer.hpp"
+	"mge/core/World.hpp"
+
+1446372784 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\main.cpp
+	<iostream>
+	"mge/core/AbstractGame.hpp"
+	"mge/MGEDemo.hpp"
+
+1478552134 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\abstractgame.hpp
+	<SFML/Graphics.hpp>
+	<GL/glew.h>
+	<string>
+
+1478639044 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\mgedemo.hpp
+	<mge/core/AbstractGame.hpp>
+
+1478638718 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\abstractbehaviour.cpp
+	<cassert>
+	<iostream>
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478551845 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\abstractbehaviour.hpp
+
+1478638675 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\keysbehaviour.cpp
+	"mge/behaviours/KeysBehaviour.hpp"
+	"mge/core/GameObject.hpp"
+	<SFML/Window/Keyboard.hpp>
+
+1478535537 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\keysbehaviour.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478550201 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\gameobject.hpp
+	<vector>
+	<string>
+	<iostream>
+	<glm.hpp>
+
+1427147572 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\glm.hpp
+	<iostream>
+	<iomanip>
+	<glm/glm.hpp>
+	<glm/ext.hpp>
+
+1478638772 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\lookat.cpp
+	<glm.hpp>
+	"mge/behaviours/LookAt.hpp"
+	"mge/core/GameObject.hpp"
+
+1478638675 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\lookat.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478535743 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\rotatingbehaviour.cpp
+	"mge/behaviours/RotatingBehaviour.hpp"
+	"mge/core/GameObject.hpp"
+
+1478535727 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\behaviours\rotatingbehaviour.hpp
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478635726 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\abstractgame.cpp
+	"AbstractGame.hpp"
+	<iostream>
+	"mge/core/Renderer.hpp"
+	"mge/core/World.hpp"
+
+1478552516 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\renderer.hpp
+	<glm.hpp>
+
+1478550131 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\world.hpp
+	"mge/core/GameObject.hpp"
+
+1446720843 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\camera.cpp
+	<iostream>
+	<glm.hpp>
+	"mge/core/Camera.hpp"
+
+1478536010 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\camera.hpp
+	<string>
+	"mge/core/GameObject.hpp"
+
+1478638851 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\gameobject.cpp
+	<cassert>
+	<iostream>
+	"mge/core/GameObject.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/behaviours/AbstractBehaviour.hpp"
+
+1478638851 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\mesh.hpp
+	<vector>
+	<GL/glew.h>
+	<glm.hpp>
+
+1478638851 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\mesh.cpp
+	"mge/core/Mesh.hpp"
+	<iostream>
+	<map>
+	<string>
+	<fstream>
+
+1478638959 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\renderer.cpp
+	<cassert>
+	<iostream>
+	<GL/glew.h>
+	"mge/core/Renderer.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/core/World.hpp"
+	"mge/core/Camera.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+
+1478551007 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\abstractmaterial.hpp
+	<glm.hpp>
+
+1478248057 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\shaderprogram.cpp
+	"mge/core/ShaderProgram.hpp"
+	<iostream>
+	<fstream>
+
+1446705773 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\shaderprogram.hpp
+	<vector>
+	<string>
+	<GL/glew.h>
+
+1478600711 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\texture.cpp
+	<iostream>
+	<string>
+	<SFML/Graphics.hpp>
+	"mge/core/Texture.hpp"
+
+1446706534 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\texture.hpp
+	<map>
+	<string>
+	<GL/glew.h>
+
+1478638959 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\core\world.cpp
+	"mge/core/World.hpp"
+
+1428950338 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\abstractmaterial.cpp
+	"mge/materials/AbstractMaterial.hpp"
+
+1478550869 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\colormaterial.cpp
+	<glm.hpp>
+	"mge/materials/ColorMaterial.hpp"
+	"mge/config.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/core/Mesh.hpp"
+
+1478728270 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\colormaterial.hpp
+	"mge/materials/AbstractMaterial.hpp"
+	"mge/core/ShaderProgram.hpp"
+
+1425322138 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\config.hpp
+	<string>
+
+1478550962 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\texturematerial.cpp
+	<glm.hpp>
+	"mge/materials/TextureMaterial.hpp"
+	"mge/core/Texture.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/config.hpp"
+
+1478728258 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\materials\texturematerial.hpp
+	"mge/core/ShaderProgram.hpp"
+	"mge/core/Texture.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+
+1478598891 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\mgedemo.cpp
+	<glm.hpp>
+	<iostream>
+	<string>
+	"mge/core/Renderer.hpp"
+	"mge/core/Mesh.hpp"
+	"mge/core/World.hpp"
+	"mge/core/Camera.hpp"
+	"mge/core/GameObject.hpp"
+	"mge/materials/AbstractMaterial.hpp"
+	"mge/materials/ColorMaterial.hpp"
+	"mge/materials/TextureMaterial.hpp"
+	"mge/behaviours/RotatingBehaviour.hpp"
+	"mge/behaviours/KeysBehaviour.hpp"
+	"mge/behaviours/LookAt.hpp"
+	"mge/util/DebugHud.hpp"
+	"mge/config.hpp"
+	"mge/MGEDemo.hpp"
+
+1478250301 g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\util\debughud.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1478639044 source:g:\data\dropbox\saxion\courses\kwartaal_2\2_2_c++_3d\005_mge_student_versions\mge_v16_student_version\src\mge\util\debughud.cpp
+	<cassert>
+	<iostream>
+	<GL/glew.h>
+	<SFML/Graphics/Text.hpp>
+	"mge/util/DebugHud.hpp"
+	"mge/config.hpp"
+
